@@ -9,6 +9,8 @@
 Public code and data repository for the paper "Seq2KING: An unsupervised internal transformer representation of global human heritages"
 </p>
 
+**NOTE:Repo is in progress, to be completed by 3/29**
+
 ---
 
 ## Hardware/Software Requirements
