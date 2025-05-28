@@ -5,11 +5,8 @@
   <img src="Images/example_layer2.gif" width="300" />
 </p>
 
-<p align="middle">
 
-![ ](Images/Attention_bert_inverted.png)
-
-</p>
+![Inverted self-attention layer weights](Images/Attention_bert_inverted.png)
 
 <p align="middle">
 Public code and data repository for the paper "Seq2KING: An unsupervised internal transformer representation of global human heritages"
