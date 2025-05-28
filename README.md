@@ -6,10 +6,10 @@
 </p>
 
 <p align="middle">
-![ ](Images/Attention_bert_inverted.png)
-</p>
 
 ![ ](Images/Attention_bert_inverted.png)
+
+</p>
 
 <p align="middle">
 Public code and data repository for the paper "Seq2KING: An unsupervised internal transformer representation of global human heritages"
